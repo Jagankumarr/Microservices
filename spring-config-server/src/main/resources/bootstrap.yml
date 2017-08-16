@@ -7,4 +7,4 @@ spring:
     config:
       server:
         git:
-          uri: C:/Users/jr38331/Documents/workspace-sts-3.9.0.RELEASE/spring-config-server/src/main/resources/config 
+          uri: https://github.com/Jagankumarr/Microservices/tree/master/spring-config-server/src/main/resources/config 
